@@ -1,0 +1,27 @@
+# CV Creation Tasks
+
+- [x] Prepare main CV content in markdown format
+- [x] Create additional data analysis projects to strengthen the CV
+- [x] Design professional PDF layout with HTML/CSS
+- [x] Integrate all CV content into a single HTML file
+- [x] Generate PDF using WeasyPrint
+- [x] Validate PDF appearance and content
+- [x] Send final PDF to user
+- [x] Gather user feedback on CV design
+- [x] Revise CV layout based on feedback (single-page format)
+- [x] Redesign professional PDF layout
+- [x] Regenerate PDF with WeasyPrint
+- [x] Validate new single-page PDF appearance and content
+- [x] Send revised PDF to user
+- [x] Gather additional user feedback (two-page format)
+- [x] Revise CV layout for two pages
+- [x] Redesign professional PDF layout for two pages
+- [x] Regenerate PDF with WeasyPrint
+- [x] Validate new two-page PDF appearance and content
+- [x] Send revised two-page PDF to user
+- [x] Gather user feedback on ATS compatibility and page fill
+- [x] Revise CV layout for ATS compliance and optimal A4 usage
+- [x] Redesign PDF layout for ATS compliance
+- [x] Regenerate PDF with WeasyPrint
+- [x] Validate ATS compliance and A4 page fill
+- [x] Send ATS-compliant PDF to user
